@@ -2,7 +2,11 @@
 
     Une fonction permet de regrouper des **instructions** dans un même bloc, relativement indépendant du reste du programme, dans le but de réaliser un certain traitement.
     Elle peut-être nommée, permettant sa réutilisabilité.
-    Elle évite par ailleurs d'avoir un code trop lourd, évitant les répétitions et les risques d'erreurs d'inatention.
+    Elle évite par ailleurs d'avoir un code trop lourd, évitant les répétitions et les risques d'erreurs d'inattention.
+
+    ![](https://image.noelshack.com/fichiers/2019/39/5/1569574601-fonction-cap.png)
+        *Exemple d'une fonction*
+
 
 ### Déclarer et appeler une fonction
 
